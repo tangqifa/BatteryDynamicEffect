@@ -1,4 +1,3 @@
-batterydynamiceffect
-====================
 
-android电池动态变化效果demo
+
+模拟Android电池动态变化效果的自定义控件
